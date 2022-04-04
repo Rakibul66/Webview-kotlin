@@ -1,0 +1,2 @@
+combo/rider/in/w/BuildConfig.java
+ combo.rider.in.w.BuildConfig

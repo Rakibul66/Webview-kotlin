@@ -1,0 +1,4 @@
+#Tue Mar 15 14:32:41 BDT 2022
+base.0=F\:\\Android Native\\Kotlin Material\\2022\\Android-WebView-in-Kotlin\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
